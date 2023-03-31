@@ -1,0 +1,43 @@
+body{
+	font-family: times new roman;
+	background:lightgray;
+}
+nav{
+	background:gray;
+	margin-bottom: 0px;
+}
+.about:hover{
+	background-color:red;
+ 
+}
+.contact:hover {
+	background-color:pink;
+
+}
+.menu:hover {
+	background-color: greenyellow;
+
+}
+h2{
+	color:blue;
+}
+#summary{
+	background-color: wheat;
+}
+#details {
+	background-color: lightcyan;
+	
+}
+.link{
+color:green;
+}
+.fig-background{
+	background-color:steelblue;
+	margin-top:0px;
+}
+footer{
+	background: antiquewhite;
+     }
+table{
+    border-collapse: collapse;
+    }
